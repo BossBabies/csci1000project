@@ -10,7 +10,9 @@ export default function Home() {
               </div>
               <img
                 
-                
+                className='pic'
+                src='https://pbs.twimg.com/profile_images/1563615071439167490/OeuMCemf_400x400.jpg'
+                alt='ron burgundy'
                
               />
     
